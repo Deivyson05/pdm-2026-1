@@ -1,11 +1,11 @@
 {
   "expo": {
-    "name": "Reminder",
-    "slug": "Reminder",
+    "name": "uikit",
+    "slug": "uikit",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
-    "scheme": "expo01",
+    "scheme": "uikit",
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
     "ios": {
@@ -43,18 +43,6 @@
     "experiments": {
       "typedRoutes": true,
       "reactCompiler": true
-    },
-    "extra": {
-      "router": {},
-      "eas": {
-        "projectId": "662ee3ce-7ff6-4468-b20e-e4054f5e2602"
-      }
-    },
-    "runtimeVersion": {
-      "policy": "appVersion"
-    },
-    "updates": {
-      "url": "https://u.expo.dev/662ee3ce-7ff6-4468-b20e-e4054f5e2602"
     }
   }
 }
